@@ -20,24 +20,24 @@
   * 커뮤니티 - Slack
   * 이슈관리 - Github
   * 버전관리 - Git
-<br/>
-
-### 활동
----
-2022.09 ~ 2022.12 교육 이수<br/>
-넥슨코리아, 멋쟁이사자처럼 MapleStory Worlds X SUPER HACKATHON 2022 기획 + 개발 트랙
-<br/>
+<br/><br/>
 
 ### 학력
 ---
 2016.03 ~ 2023.08 졸업 <br/>
 상명대학교 컴퓨터과학전공 3.69 / 4.5
-<br/>
+<br/><br/>
 
 ### 자격증
 ---
 2022.11<br/>
 정보처리기사
+<br/><br/>
+
+### 활동
+---
+2022.09 ~ 2022.12 교육 이수<br/>
+넥슨코리아, 멋쟁이사자처럼 MapleStory Worlds X SUPER HACKATHON 2022 기획 + 개발 트랙
 <br/><br/>
 
 ### 프로젝트
@@ -55,7 +55,7 @@ Non-Playable Character 행동 패턴 스크립트 작성 <br/>
 <br/>
 
 [메이플런](https://maplestoryworlds.nexon.com/ko/play/856fe59650c24dbcab24e3403f886f6f/?utm_source=nexon_homepage&utm_medium=banners&utm_campaign=KSL&utm_content=central_city)<br/>
-  * 기간 : 2022.09 ~ 2022.11
+  * 기간 : 2022.09 ~ 2022.12
   * 소개 : Maplestory World를 통해 메이플스토리 세계를 달리는 횡스크롤 러닝 게임
   * 역할 : Playable Character 움직임(애니메이션, 달리기, 더블 점프, hp 감소) 스크립트 작성 <br/>
   아이템 사용(체력 회복, 거대화, 이동속도 증가, 부활) 스크립트 작성
