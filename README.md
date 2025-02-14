@@ -48,8 +48,6 @@ MapleStory Worlds X SUPER HACKATHON 2022 기획 + 개발 트랙
 ### 프로젝트
 ---
 [Melko](https://gitlab.com/yeonk33/melko)<br/>
-![melkoIntro](https://github.com/user-attachments/assets/b9b5addc-18d7-4fc3-98f4-26513f0a7164)
-
 https://github.com/user-attachments/assets/f1d095b5-6de5-44a0-81bc-df8d8b69e521
   * 기간 : 2021.11 ~ 2022.09
   * 소개 : 2D 플랫포머 게임 
