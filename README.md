@@ -65,7 +65,6 @@ Non-Playable Character 행동 패턴 스크립트 작성 <br/>
 <br/>
 ![tutorial1](https://github.com/user-attachments/assets/7670356c-bdcb-4b69-83c3-8a5a766c7cbe)
 ![tutorial2](https://github.com/user-attachments/assets/748fda18-69cd-4bff-bb73-c59687062724)
-
 ![stage1-1](https://github.com/user-attachments/assets/b4421e95-9443-4627-8a43-5f089d935f0f)
 ![stage1-2](https://github.com/user-attachments/assets/0636a2a8-74e6-4a85-988f-94a1b834dc12)
 ![stage2-1](https://github.com/user-attachments/assets/799f5f68-8e70-4e27-b468-3a1f1280ff0d)
