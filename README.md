@@ -63,6 +63,7 @@ Non-Playable Character 행동 패턴 스크립트 작성 <br/>
   * 사용 스킬 or 지식 : Unity, C#, git, slack
 
 <br/>
+
 ![tutorial1](https://github.com/user-attachments/assets/7670356c-bdcb-4b69-83c3-8a5a766c7cbe)
 ![tutorial2](https://github.com/user-attachments/assets/748fda18-69cd-4bff-bb73-c59687062724)
 ![stage1-1](https://github.com/user-attachments/assets/b4421e95-9443-4627-8a43-5f089d935f0f)
@@ -71,6 +72,7 @@ Non-Playable Character 행동 패턴 스크립트 작성 <br/>
 ![stage2-2](https://github.com/user-attachments/assets/57953781-bb04-4cc5-9ba1-8f7ca5b45c39)
 ![stage3-1](https://github.com/user-attachments/assets/a7daeadf-b4c9-47df-8afc-f7c7125e3422)
 ![stage3-boss](https://github.com/user-attachments/assets/3c912ac0-2107-4484-bbb3-0c7478e3778d)
+
 <br/>
 
 
