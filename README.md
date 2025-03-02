@@ -79,11 +79,27 @@ Non-Playable Character 행동 패턴 스크립트 작성 <br/>
 
 
 [메이플런](https://maplestoryworlds.nexon.com/ko/play/856fe59650c24dbcab24e3403f886f6f/?utm_source=nexon_homepage&utm_medium=banners&utm_campaign=KSL&utm_content=central_city)<br/>
+
+![Title](https://github.com/user-attachments/assets/ead951d4-5624-4b04-b9e3-b976dda2dc01)
+
+
+
   * 기간 : 2022.09 ~ 2022.12
   * 소개 : Maplestory World를 통해 메이플스토리 세계를 달리는 횡스크롤 러닝 게임
   * 역할 : Playable Character 움직임(애니메이션, 달리기, 더블 점프, hp 감소) 스크립트 작성 <br/>
   아이템 사용(체력 회복, 거대화, 이동속도 증가, 부활) 스크립트 작성
   * 사용 스킬 or 지식 : Lua
+<br/>
+
+![상점](https://github.com/user-attachments/assets/d75a88ac-e1c7-4570-89bf-558a6980f3c6)
+![점수](https://github.com/user-attachments/assets/bfac4192-384c-45f6-9f88-82f1975740bc)
+![stage1](https://github.com/user-attachments/assets/31862a5d-a284-44e3-98cc-532d4d8f66b8)
+![stage2](https://github.com/user-attachments/assets/dad6b538-38bf-44cc-bfbb-e40262e1edca)
+![stage3](https://github.com/user-attachments/assets/cb36e1e6-cb65-4e1d-932b-3c115bd8bc52)
+![stage4](https://github.com/user-attachments/assets/52f101dc-6fbe-4650-8d0f-fba02a55e55a)
+![stage5](https://github.com/user-attachments/assets/a2411252-0641-425b-9bca-e5d49cce1cdc)
+![stage6](https://github.com/user-attachments/assets/6888e947-6346-4624-9319-e8beaa19beb4)
+
 <br/>
 
 [마법소년 김셰프](https://gitlab.com/psh970718/magicchef)<br/>
