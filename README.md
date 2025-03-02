@@ -64,8 +64,9 @@ Non-Playable Character 행동 패턴 스크립트 작성 <br/>
 
 <br/>
 
-![GIFMaker_me](https://github.com/user-attachments/assets/8235fa60-c12d-478c-b1e1-ba5acd879ef0)
-![GIFMaker_me](https://github.com/user-attachments/assets/e476d0a5-95c2-4513-9a5b-5a29502ccb26)
+![GIFMaker_me](https://github.com/user-attachments/assets/77564a8c-02b7-4ddc-950d-bd5cf9e68af5)
+![GIFMaker_me](https://github.com/user-attachments/assets/b8e09c5f-1bd9-47cd-a49d-78401b401eeb)
+
 
 ![Tutorial_1](https://github.com/user-attachments/assets/31b55eaf-c257-466b-aacf-e59d8ecf0341)
 ![Tutorial_2](https://github.com/user-attachments/assets/0b49cfa1-d8da-42eb-aa07-ba11ec31b1e3)
