@@ -61,6 +61,8 @@ Non-Playable Character 행동 패턴 스크립트 작성 <br/>
 스테이지별 레벨 디자인 기획 <br/>
 첫 엔딩, 2회차 엔딩 기획 <br/>
   * 사용 스킬 or 지식 : Unity, C#, git, slack
+
+<br/>
 ![GIFMaker_me](https://github.com/user-attachments/assets/8235fa60-c12d-478c-b1e1-ba5acd879ef0)
 ![GIFMaker_me](https://github.com/user-attachments/assets/e476d0a5-95c2-4513-9a5b-5a29502ccb26)
 
