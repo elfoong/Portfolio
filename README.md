@@ -63,22 +63,15 @@ Non-Playable Character 행동 패턴 스크립트 작성 <br/>
   * 사용 스킬 or 지식 : Unity, C#, git, slack
 
 <br/>
+![tutorial1](https://github.com/user-attachments/assets/7670356c-bdcb-4b69-83c3-8a5a766c7cbe)
+![tutorial2](https://github.com/user-attachments/assets/748fda18-69cd-4bff-bb73-c59687062724)
 
-![GIFMaker_me](https://github.com/user-attachments/assets/77564a8c-02b7-4ddc-950d-bd5cf9e68af5)
-![GIFMaker_me](https://github.com/user-attachments/assets/b8e09c5f-1bd9-47cd-a49d-78401b401eeb)
-
-
-![Tutorial_1](https://github.com/user-attachments/assets/31b55eaf-c257-466b-aacf-e59d8ecf0341)
-![Tutorial_2](https://github.com/user-attachments/assets/0b49cfa1-d8da-42eb-aa07-ba11ec31b1e3)
-![Stage1_1](https://github.com/user-attachments/assets/279e83e9-bfd7-4441-8517-58c6dffd81d2)
-![Stage1_2](https://github.com/user-attachments/assets/75f34fd7-d2ba-4b0f-9b1c-07963c6bf015)
-![Stage2_1](https://github.com/user-attachments/assets/6585651b-732c-4576-9086-037ebef1d464)
-![Stage2_2](https://github.com/user-attachments/assets/3ffc5416-6a68-45e8-82b4-4be52635b65c)
-![Stage3_1](https://github.com/user-attachments/assets/a3a82f47-7db9-48c5-97b0-10ced3341018)
-![Stage3_Boss](https://github.com/user-attachments/assets/9516debd-dbcd-434e-893c-300a3d6ca5eb)
-
-
-
+![stage1-1](https://github.com/user-attachments/assets/b4421e95-9443-4627-8a43-5f089d935f0f)
+![stage1-2](https://github.com/user-attachments/assets/0636a2a8-74e6-4a85-988f-94a1b834dc12)
+![stage2-1](https://github.com/user-attachments/assets/799f5f68-8e70-4e27-b468-3a1f1280ff0d)
+![stage2-2](https://github.com/user-attachments/assets/57953781-bb04-4cc5-9ba1-8f7ca5b45c39)
+![stage3-1](https://github.com/user-attachments/assets/a7daeadf-b4c9-47df-8afc-f7c7125e3422)
+![stage3-boss](https://github.com/user-attachments/assets/3c912ac0-2107-4484-bbb3-0c7478e3778d)
 <br/>
 
 
